@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1038" height="950" viewBox="0 0 1038 950">
+	<style type="text/css">
+text {font-family:WenQuanYi Zen Hei,Arial Unicode MS,sans-serif}
+.title {font-weight:bold;font-family:AR PL UMing CN,SimSun,serif}
+.line {fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+.ae {stroke:#007582}
+.dn {stroke:#DE6DBD}
+.er {stroke:#6AC2EE}
+.il {stroke:#2D7BC8}
+.kt {stroke:#33B652}
+.mos {stroke:#A73E10}
+.tko {stroke:#915FB6}
+.tw {stroke:#EE2722}
+.tc {stroke:#F68B11}
+.wr {stroke:#AB118E}
+.path {stroke-width:2;fill:none}
+.lr {stroke:#DAB006}
+.np {stroke:#94989A}
+	</style>
+	<defs>
+		<circle cx="0" cy="0" r="3" id="station" style="fill:#fff;stroke:#000;stroke-width:1"/>
+		<rect width="6" height="10" rx="3.5" x="-3" y="-5" id="interchange" style="fill:#fff;stroke:#000;stroke-width:1"/>
+		<path d="m 8,0 -8,4 0,18 11,5 0,21 8,0 L 19,27 30,22 30,4 22,0 22,16 15,20 8,16 8,0" transform="matrix(0.212132,0.212132,-0.212132,0.212132,-1.35,-1.8)" id="depot" style="fill:#fff;stroke:#000;stroke-width:2"/>
+	</defs>
+	<rect width="1038.6285" height="1024" x="0" y="0" id="ocean_bg" style="fill:#7fc9ee"/>
+	<g style="fill:#eaebed">
+		<path id="newterritories_kowloon" d="m 370,134 -13,27 3,7 -8,3 -6,29 -37,24 2,-27 -37,-35 -12,32 -4,20 -19,8 -18,19 -10,16 0,17 -33,13 -28,15 -4,20 -12,3 -4,28 -20,15 -22,6 -40,8 -30,32 -6,13 16,9 7,-3 5,5 7,9 -3,5 7,17 13,9 1,19 -11,3 -4,14 24,23 12,11 10,-13 8,4 -8,16 14,7 3,-4 24,5 3,-7 -4,-10 11,-7 21,-15 37,7 -12,-23 -4,-9 1,-8 9,-8 4,-21 14,-31 -11,33 -4,20 -9,8 -1,6 5,9 18,-7 16,9 0,4 12,8 8,26 18,-1 5,11 6,1 20,-10 20,6 7,16 32,5 25,-7 1,-4 18,-6 5,2 32,-17 15,8 14,1 0,-4 7,-8 11,1 5,0 3,-7 20,6 11,0 7,-2 11,0 15,-12 13,12 9,13 -2,11 5,1 6,13 -5,6 4,4 0,11 6,0 6,-2 9,29 13,-2 2,4 -11,5 6,23 19,-7 3,8 -31,9 -7,10 22,13 11,4 0,7 3,0 1,-13 7,-1 1,7 -5,4 8,-3 0,-6 11,6 9,-16 4,-1 0,-3 -5,-4 -9,4 -3,-3 5,-6 0,-3 -5,-1 0,-2 13,-1 23,17 0,13 12,1 1,29 -6,9 -6,0 0,-8 -1,-2 -2,-1 1,3 0,22 11,1 1,-3 7,-1 4,-4 10,-1 0,6 -4,1 0,1 5,-1 0,3 -5,1 1,1 4,-1 0,3 -4,2 1,0 5,-1 0,2 -9,3 2,4 4,0 4,-2 2,4 16,-1 5,-3 -1,-5 17,-10 0,8 2,-1 0,-8 4,3 23,-11 2,-17 -5,-2 3,-4 -3,-5 0,-7 9,-18 55,51 5,-5 -6,-5 0,-5 -4,-3 -6,-1 -15,-15 3,-4 10,8 7,-5 18,19 -5,6 4,-1 3,-3 1,5 5,1 -2,3 35,40 5,6 -2,2 18,8 14,-20 21,-23 18,-1 8,-14 2,-1 -10,18 2,3 0,2 8,5 0,13 11,0 -1,7 -11,17 1,4 -5,10 -3,10 3,0 1,9 1,0 1,-5 3,-1 1,8 2,-2 1,-7 4,0 1,8 2,4 -5,0 0,4 12,20 3,-2 5,0 14,-10 12,4 0,-169 -26,3 -10,-2 -2,-22 -4,-5 0,-6 -2,-5 -2,-7 -6,0 -4,-13 2,-12 7,-6 -3,-7 -8,2 -5,-10 -7,0 0,-6 -23,6 10,-7 11,-5 -7,-9 4,-6 6,4 -1,-8 1,-8 15,4 6,-2 1,13 -10,5 -1,13 3,1 5,-4 6,0 6,9 4,9 5,0 0,-10 3,1 7,-11 -7,-10 -3,0 -2,-5 -4,-4 -5,-15 10,-16 -3,-18 7,-9 17,-4 9,16 0,-123 -26,7 -5,11 -11,0 -8,-11 9,-25 -7,-21 -23,8 -10,4 3,-6 -11,-4 4,6 -24,2 -4,-11 -6,-4 -12,1 -3,4 4,4 0,5 -14,11 -12,2 -8,9 -9,19 -4,25 1,5 -7,5 -40,47 17,18 -19,-15 -35,36 -14,4 -10,4 8,-5 13,-6 33,-36 -15,-15 18,11 41,-48 -10,-7 5,-35 -1,-10 -21,-16 -11,2 5,-6 -25,-20 -22,0 -25,-15 -1,-9 -11,-7 -19,-1 -13,5 11,-7 19,0 10,6 11,0 2,-7 14,-1 15,3 15,-5 0,-12 10,-8 10,7 8,3 6,-1 8,3 -1,6 -11,11 17,3 -2,5 9,-3 -2,-4 16,0 7,3 19,-12 7,-15 -5,-3 -10,3 -13,16 -10,2 -8,-5 0,-4 3,-3 0,-2 -26,-9 -3,-18 14,-22 10,8 0,7 14,0 3,6 4,-15 2,3 14,-6 3,5 -4,6 9,1 35,38 -2,19 8,-11 11,-2 13,-6 8,-17 8,-6 9,-11 18,-4 -3,-7 9,-3 26,-9 0,-8 -26,10 -9,1 -6,-2 0,-3 -8,1 0,3 -11,3 -14,13 0,11 12,-3 1,5 -6,4 -5,5 -4,10 -11,-3 7,-2 -6,-3 -9,3 -6,10 -37,-39 2,-10 22,-31 -7,-41 7,16 51,18 -4,6 10,0 6,-16 25,-4 26,14 0,-102 -26,-21 -13,5 -24,-1 4,-19 8,-1 -2,-13 -12,10 4,-20 -18,3 4,-10 10,-5 -12,-9 -12,2 -17,-6 -13,1 -16,47 -13,3 -5,-5 -22,6 -9,17 -4,-6 -19,2 -2,-24 11,5 3,-14 22,-16 -11,3 34,-7 0,-5 6,-5 5,-11 -232,0 -4,12 -8,1 -9,12 -9,-2 -12,11 -9,-2 -33,22 -3,8 -12,5 -9,-5 -11,-10 -21,4 -10,-8 -14,1 -5,11 -18,5 -13,33 -23,6 -15,13 -7,24 -22,9 -12,-6"/>
+		<path id="tsingyi" d="m 569,552 3,9 0,14 7,15 2,9 9,45 -8,9 -4,1 0,-1 2,0 0,-2 -8,1 0,5 -8,1 -6,-3 -21,2 -1,4 -9,0 -9,-16 5,-16 5,-4 -1,-2 -7,0 0,-6 3,-1 -1,-4 -3,-3 -15,-2 2,-10 -3,-2 0,-8 -7,-1 -3,-6 0,-8 -1,-3 2,-6 15,-7 5,-3 7,0 0,3 20,1 7,-5"/>
+		<path id="hongkongisland" d="m 602,785 -12,14 1,10 6,3 1,4 11,5 22,41 3,8 12,15 13,2 34,0 5,3 10,1 18,17 -4,8 1,7 5,0 0,5 -3,3 17,12 6,-7 2,-18 12,-20 15,-3 6,6 0,14 6,8 -19,-1 -5,4 11,8 10,-4 3,-7 5,0 9,-4 8,9 0,8 -4,4 0,5 2,3 -3,6 -7,0 -6,2 6,2 18,10 4,0 1,11 -10,3 -1,7 -3,5 6,6 7,-3 0,-5 12,0 4,-6 -2,-4 11,-4 2,-5 8,13 -1,7 -6,6 0,25 31,0 -8,-11 -1,-6 -3,-2 0,-6 3,-1 2,-7 6,-2 -1,-8 -13,-5 -7,-7 2,-12 9,-10 0,-5 6,0 6,-10 8,9 7,-1 1,-9 -2,-15 -6,-1 -2,-8 11,-2 11,7 1,12 5,44 4,6 6,-2 5,5 1,17 -3,1 4,9 12,4 14,-4 4,5 5,-1 0,-3 3,0 2,2 3,0 -2,5 4,1 2,3 3,0 -1,-8 3,-5 -8,-5 -1,-4 -2,0 -6,3 -3,-2 1,-2 3,-1 -2,-3 0,-19 -10,-25 2,-2 7,2 4,1 2,0 -2,-3 5,0 5,-2 -1,-5 -6,3 -7,-1 -6,-4 4,-11 -7,-10 0,-10 -9,0 -1,-4 1,-6 4,0 7,-9 4,2 2,-4 0,-5 7,-16 -5,-7 2,-5 5,-2 -24,-21 -2,3 -4,-4 -2,-8 -4,-7 0,2 3,6 -2,2 2,6 -5,5 -5,-9 5,-6 -6,-18 -5,-2 0,-4 -14,-10 -15,-8 -1,1 14,8 -21,3 -1,-8 -14,-11 -12,-2 -27,-13 -16,1 -20,9 -1,7 -6,2 -14,-1 -11,11 -14,5 -2,-10 -5.43006,-0.0898 -3.15027,7.91021 c -6.92255,-0.59812 -17.78827,-2.31412 -21.25047,-3.77032 L 715,773 l -26,-7 -3,1 0,2 -3,0 -1,-2 -3,0 -3,-2 -21,-1 -11,4 -9,0 -13,12"/>
+		<path id="apleichau" d="m 678,893 -3,2 -5,1 -5,3 0,3 4,-1 6,6 -8,5 18,2 10,10 12,5 0,8 7,6 3,0 -3,-7 1,-4 -6,-4 0,-2 4,-11 -1,-6 -5,-4 2,-4 0,-5 -6,-2 -11,2 -7,-3"/>
+		<path id="tsingchau" d="m 582,774 -6,4 -1,5 3,4 11,-2 1,-3"/>
+		<path id="mawan" d="m 454,574 -4,7 0,3 -3,3 1,7 10,7 -16,11 -12,-9 2,-5 -9,-5 10,-4 1,-6 -7,-4 8,-6 6,-1 4,4"/>
+		<path id="lantau" d="m 401,591 -3,2 -1,12 -6,5 -1,5 -26.22703,16.93414 -4.49911,1.37258 -3.89949,-4.05546 L 344,634 l -6,-4 4,7 0,5 -8,0 -1,-5 -14,12 -3,-1 -9,6 1,5 -37,21 -15,20 -12,1 -23,15 -6,9 -60,26 -37,3 -12,12 0,6 -15,15 -13,-8 -3,-18 -12,2 -10,-7 -14,7 -11,-4 -14,7 -8,-5 -6,4 0,160 10,-8 12,23 -16,9 -6,-2 0,16 2,14 27,26 14,5 7,-13 8,0 6,11 28,-10 -1,-18 -23,-9 9,-19 7,6 18,-3 3,-7 47,-18 12,8 13,-4 2,-10 28,-15 22,17 -11,20 18,21 -9,13 19,11 26,-17 11,11 10,0 1,-9 19,-18 8,0 13,-18 -30,-15 -11,4 -31,-23 48,68 -13,-122 -24,-19 13,-14 33,21 20,-4 3,-37 -1,-13 -12,-12 5,-10 0,-7 8,5 14,0 -6,-9 -1,-11 -16,7 -13,-4 1,-8 12,-1 -1,-7 -10,-4 0,-4 4,-4 0,-8 22,0 10,-9 16,14 18,6 14,-5 5,2 8,-4 -6,0 0,-16 7,-4 -8,-8 4,-1 8,-8 4,5 2,-5 -5,-7 7,-18 -4,-3 8,-13 -2,-8 -16,-21"/>
+		<path id="airport" d="m 130,667 -24,7 -5,-9 -101,35 0,19 5,12 -5,6 0,17 6,2 14,-6 36,1 41,13 17,-13 -3,-5 -1,-15 8,-3 -4,-8 4,-18 15,-26"/>
+		<path id="lammaisland" d="m 597,909 -6,6 -17,5 -12,10 11,8 -7,4 1,8 3,2 -3,8 -8,8 -7,4 -1,9 34,0 0,-12 16,5 3,27 -4,7 4,4 1,12 70,0 4,-6 4,0 0,-6 5,0 8,6 5,0 11,-10 0,-8 -5,-8 -15,11 -3,-14 -29,17 -9,-6 -13,5 -10,11 -6,-8 2,-9 19,-11 5,-7 0,-9 -6,-6 0,-5 5,-4 0,-5 -5,-3 -7,4 0,5 3,3 0,6 -8,6 -6,-1 -5,-11 0,-12 -15,-8 0,-10 6,-5 0,-10"/>
+		<path id="cheungchau" d="m 372,958 -8,5 -3,-1 -7,0 -8,5 -3,6 4,1 0,5 -5,7 -4,-2 -2,4 7,5 7,0 5,5 1,7 -3,4 -14,3 -5,8 -3,1 -1,3 28,0 2,-3 6,0 2,-3 6,6 5,0 0,-4 6,-1 2,-6 4,-2 0,-2 -4,-2 -3,-5 -8,4 -10,-4 -7,-11 2,-8 17,-6 -3,-2 -8,1 0,-3 10,-9"/>
+		<path id="heilingchau" d="m 392,856 -34,0 -9,5 7,11 10,-3 7,14 7,-1 5,10 0,9 14,7 7,-16 -8,-11 2,-8 1,-10"/>
+		<path id="sunshineisland" d="m 427,837 -12,3 -2,3 -8,4 -1,4 -2,2 2,5 3,1 2,3 6,0 4,-5 4,0 5,-6 0,-3 4,-5"/>
+		<path id="pengchau" d="m 388,756 -14,10 3,9 3,5 2,3 -3,4 8,9 16,-5 4,-10 -3,-2 0,-6 -6,0 -9,4 -2,-2 3,-5 10,-3 3,-6 -7,-5"/>
+	</g>
+	<path id="shenzhen" style="fill:#f4ecc8" d="m 0,0 677,0 -3,10 -8,1 -8,11 -8,-1 -13,11 -9,-2 -35,23 -3,8 -10,4 -8,-5 -11,-10 -22,4 -10,-8 -16,2 -5,10 -18,5 -13,33 -22,6 -18,11 -8,25 -17,7 -11,-6 -30,-9 -16,-5 -12,-27 -34,-23 -34,-4 1,10 -13,7 -11,-5 -15,6 -93,0 -1,9 4,5 -1,4 -4,3 -3,9 4,6 -2,13 -6,5 3,5 0,8 -3,11 1,10 2,3 -17,8 -15,-6 -2,2 12,12 -8,9 -9,-8 -4,2 -3,14 -25,-7 1,-7 7,0 1,-3 -19,-9 -1,11 -4,4 -11,-2 -3,6 -1,10 -12,7 2,4 -3,6 -6,-6 -6,5 10,10 -16,7 -2,-3 -4,3"/>
+	<path id="airport_symbol" style="fill:#ccc" d="m 57.932759,737.34698 -0.856121,-15.47472 -6.372176,2.37389 -4.720374,7.09423 -4.328866,-11.61985 8.176484,2.18291 6.465885,-2.4088 -9.536099,-12.13437 18.004771,9.08616 8.621179,-3.21174 0.872756,2.34271 -8.527471,3.17683 -7.799968,18.59275 z"/>
+	<text class="title" style="font-size:30px;fill:#ccc;text-anchor:middle">
+		<tspan x="810" y="660">nine dragon</tspan>
+		<tspan x="155" y="830">large island mountain</tspan>
+		<tspan x="790" y="870">incense harbor island</tspan>
+		<tspan x="642" y="406">new world</tspan>
+		<tspan x="405" y="80">deep 圳</tspan>
+	</text>
+	<path id="LRT_pathmain" class="lr path" d="m 373,313.5 -5.4722,4.76777 -54.4264,-0.13604 -33.08668,24.46015 -35.11091,34.08059 L 222,410 l -9.04594,-4.2028 -1.05583,9.3656 -8.19974,8.74784 -13.14267,1.1705 -13.49624,-0.59728 -8.19292,5.41314 2.76722,5.05958 11.95962,1.8776 0.52351,28.26023 -1.62501,19.39994 -3.39276,12.32888 -7.84619,9.45495 -0.46024,7.95616 11.64305,4.14036 1.38999,4.14036 7.75394,2.01905 -4.26686,-11.41599 -0.0242,-5.40559 10.58238,-5.75913 -0.0242,-8.58755 12.35015,0.60481 1.36576,-30.9637 8.46106,-2.93071 0.68289,-28.38654 L 224,425 217,413"/>
+	<path id="LRT_path2" class="lr path" d="m 212.48676,414.96982 3.36664,1.23224 -7.4038,23.19848 -5.15597,8.1967 -0.81623,2.96789 -5.57969,-0.96715 -6.92462,-11.62742 -6.00558,-0.88745"/>
+	<path id="LRT_path3" class="lr path" d="m 201.88016,450.32516 -1.5831,9.01041 3.2028,3.39949 7.57195,0.065"/>
+	<path id="LRT_path4" class="lr path" d="m 184.20249,458.81044 16.09457,0.17158"/>
+	<path id="LRT_path5" class="lr path" d="m 183.14183,445.02186 -2.64376,-0.18198 -2.1005,8.34924 5.09708,2.53985"/>
+	<path id="LRT_path6" class="lr path" d="m 210.01189,476.48811 -5.47219,-0.18198 0.0208,6.22792 5.45063,0.065"/>
+	<path id="LRT_path7" class="lr path" d="m 210.23154,493.83631 -0.38854,5.80435 6.38478,-2.25737"/>
+	<path id="LRT_path8" class="lr path" d="m 219.55783,408.95941 -3.70442,6.8891"/>
+	<path id="LRT_path9" class="lr path" d="m 289.20785,302.53984 8.60731,-8.78392 -3.76706,-9.84457 3.304,-11.25879 -8.7168,-9.13747 2.95045,-10.55169 -9.91498,-5.7547 -2.64474,0.19366 -3.81323,9.55997 -0.93864,10.66152 4.01112,8.18664 5.79141,12.59404 3.304,7.8331 3.30401,13.48994 0.47558,24.09655"/>
+	<path id="LRT_path10" class="lr path" d="m 288.85429,263.64897 -12.54325,7.24265"/>
+	<path id="eastrailmain" class="er line" d="m 586.97195,66.725894 c 1.32751,10.905756 5.86336,19.881354 6.36137,33.910606 C 593.90857,116.84204 613.4066,140.353 625,151 c 12,11 21.31462,20.48019 30,26 12.44353,7.90822 20.92197,5.07897 28.22606,9.34004 7.30409,4.26108 12.02447,12.67478 11.49925,16.92402 -7.50416,60.71153 -4.33334,37.19423 -12.11515,62.99912 -2.14213,7.10341 3.54392,12.19994 6.90961,13.69452 10.69189,4.74786 19.21544,8.73806 21.48023,15.0423 2.89114,8.04774 9.3964,19.723 26,20 32.99172,0.5504 47.06286,23.79435 60.9381,24.76892 26.24354,1.84329 8.66042,6.10871 26.03634,17.74442 27.37026,14.39877 31.76512,21.4964 19.20937,42.15644 -1.31844,14.6954 7.40588,11.46852 3.97057,22.23976 C 844.82856,429.20205 817.29167,434.55833 806,456 c -0.9236,1.75382 -11.31846,26.31846 -26,41 -2.31846,2.31846 -3.41876,8.3464 -26,30.75 -9.4809,9.40631 -10.6388,19.27096 -7.85454,48.07991 1.85435,19.18706 3.08509,38.98805 9.85454,46.17009 3.52517,3.74003 4.96064,15.93823 1.41847,24.20189 -3.54217,8.26366 -11.47874,11.18125 -10.08825,25.64235 C 749.54924,694.92203 768.57895,700.97374 770,723"/>
+	<path id="lokmachauspur" class="er line" d="m 459.34697,111 c 29.02057,-1.91944 23.55137,5.46897 26.06142,13.27151 4.55008,14.14402 12.24472,4.15612 64.36222,3.73958 33.68196,-0.2692 48.11867,-4.68818 74.37532,22.19615"/>
+	<path id="racecoursespur" class="er line" d="M 836.67349,430.00073 C 833.8573,432.74605 830.14204,437.53963 828,441 c -10.2252,16.5184 -22.58022,19.75935 -31.30216,33.19389"/>
+	<path id="mosrail" class="mos line" d="M 937.1849,357.91334 C 918.83065,374.13791 913.14966,360.38112 900,373 c -7.46802,7.16247 -9.94739,14.83563 -14,20 -7.66089,9.76252 -1.90278,16.58718 -6,25 -6.28832,12.91181 -2.63494,23.66901 -9.36214,31.93638 C 865.67229,456.03881 844.87965,462.61409 840,472 c -4.6486,8.9415 -7.23419,9.89145 -10.15576,13.67914 -5.77197,7.4831 -9.11319,10.50731 -14.99064,17.1464 -8.89923,10.05245 -8.97039,11.38568 -28.23058,17.15576 -4.01958,1.20421 -25.258,4.78808 -30.53099,10.00106 -3.7975,3.75429 -4.2696,3.88587 -5.98146,10.46662"/>
+	<path id="westrail" class="wr line" d="m 770,723 c 0.71751,7.97487 -13.6639,19.17704 -24,22 -20.82915,5.68878 -9.87918,10e-4 -16.59545,-23.29472 -7.50818,-26.043 -18.7919,-59.34232 -39.68111,-71.01472 C 647.95409,631.75697 648.27639,631.17068 648,624 646.53808,585.13661 628.25,608.75 579,539 545.71833,476.47598 479.12815,423.53816 464.6517,388.21486 458.29527,372.05189 469.92043,366.0117 451,345 c -35.78884,-39.74456 -29.59844,-30.95918 -78,-34 -10.05746,-0.63186 -10.53024,-4.04245 -22,-4 -22.55275,0.59499 -38.92522,-23.91474 -59,-4 -40.26776,39.94673 -40.94671,27.15566 -71,107 -7.09095,18.83894 -12,39.75 -16,53"/>
+	<path id="airportexpress" class="ae line" d="m 125.91892,671.61862 c -27.302138,9.09653 -33.639898,13.91582 -26.323467,33.62977 2.998057,8.07818 -2.626131,22.67671 3.407547,36.81283 8.24884,19.32595 38.22233,32.71029 59.29045,21.38405 14.60203,-7.85007 16.43005,-15.78784 29.27279,-22.9422 13.261,-7.38736 12.31468,-4.6978 28.08326,-14.14407 M 330.375,655.0585 c 4.89883,-2.82289 10.79498,-7.57157 18.5245,-12.14803 10.64961,-6.30537 8.3456,-2.92916 15.1645,-6.60897 m 180.0085,-66.058 c 9.80864,-1.61988 18.4212,0.56103 25.11973,1.41712 16.55788,2.11614 35.35411,12.5276 42.84186,28.70552 17.90871,35.2155 27.0527,35.89628 73.39914,54.93187 9.30066,3.82001 18.2471,18.52407 21.57741,26.287 4.64835,10.83526 5.66007,27.89097 4.67961,42.19199 -0.24006,3.50154 -0.23091,8.29161 -1.95575,12.1 m -14.144,36.6825 c 1.39994,3.24631 5.90777,8.88538 11.34337,11.25039"/>
+	<path id="disneyline" class="dn line" d="m 330.375,655.0585 c 3.44239,-2.26663 23.05402,-8.0851 25.80917,-9.32329 17.72494,-7.96572 21.80983,3.46949 19.74391,10.0901 C 372.11393,668.04845 373.61195,693.10266 404,692"/>
+	<path id="tungchungline" class="tc line" d="m 122.69944,772.07941 c 14.46657,-14.23575 14.44512,-16.14886 25.77337,-17.17803 17.21009,-1.56352 16.38848,-3.78298 37.07013,-14.49278 17.64551,-9.13756 20.99545,-7.5711 34.10632,-14.04953 48.52979,-23.97986 38.60616,-26.64724 56.58951,-40.31655 10.98782,-8.35195 19.88823,-13.56463 33.69941,-20.6124 6.79442,-3.46716 13.73769,-6.80315 20.43666,-10.37187 7.12363,-3.79495 15.1368,-6.65338 21.23515,-10.2033 6.13909,-3.57363 8.32419,-6.18068 12.45416,-8.55328 28.53642,-16.39375 29.50818,-12.20549 40.30964,-13.25744 12.08163,-1.17662 29.55184,-13.11985 42.5995,-20.31711 5.67337,-3.1295 29.57385,-10.06138 56.85018,-18.56519 6.21035,-1.93617 26.08477,-11.96532 40.24905,-13.91838 3.99074,-0.55027 14.95614,-3.11994 24.44231,-1.71881 16.34488,2.41418 36.0726,10.33498 46.24224,30.41382 15.74511,31.08701 22.53386,34.89946 71.61078,53.48669 C 695.01178,655.69903 708.11694,675.2311 710,681 c 1.30126,3.98652 5.70459,11.58508 4.74218,42.68644 -0.10927,3.53124 -2.9952,9.25894 -5.00774,12.19045 -8.16348,11.89113 -19.14283,27.38313 -14.14382,36.68264 1.49895,2.78845 6.93088,6.40393 12.36637,8.42828"/>
+	<path id="tsuenwanline" class="tw line" d="m 585.53791,515.8842 c 3.13164,3.32731 3.59787,3.70483 7.30494,4.18227 5.56232,0.71637 23.43619,2.97088 27.08765,7.02018 6.52802,7.23927 8.457,13.8722 9.0695,23.91335 0.62381,10.22665 -4.57322,12.8514 -8,17 -3.3562,4.06316 -10.35185,10.92519 -3.17941,30.2428 7.12868,19.19975 25.98356,25.84294 40.93934,27.70711 14.1959,1.76945 18.41354,4.50547 29.24007,0.0501 7.98835,-3.2874 13.28553,-4.61612 21,3 4.27822,4.22367 7,5 13,13 6,8 10.84508,10.27441 11.19324,19.51945 1.7444,26.28758 6.54381,48.00763 9.7429,76.50901 0.38536,8.40478 5.30531,54.66207 -17.61528,62.37353 -3.87996,1.30538 -4.86688,-0.99202 -10.45535,-3.5271 -2.1311,-0.96673 -6.48386,-2.2079 -12.36384,-1.59745"/>
+	<path id="kwuntongline" class="kt line" d="m 740.985,701.74146 c -1.99159,-14.0321 -4.30848,-28.71124 -4.63145,-40.91824 C 736.09652,650.07629 737.77551,646.99096 737,636 c -0.64321,-9.11582 7.53033,-14.09536 19,-14 8.09835,0.0659 10.63785,-0.95771 20.15616,-1.12141 C 783.63839,620.74991 789.4998,613.79919 793,613 c 10.28577,-2.34851 14.93934,-4.54289 28,-3 12.12481,1.43234 14.35121,7.1225 20,12 8.96916,7.74451 12.32036,18.93887 12,35 -0.26041,13.05546 -1.91942,17.37132 11,25 11.13811,6.57685 12.75,5.5 23,14 10.25,8.5 10.05476,9.4585 18,20 8.65894,11.48842 2.38465,11.96088 14,22 7.72571,6.67731 16.72804,2.48479 44.88091,-17.27721"/>
+	<path id="tseungkwanoline" class="tko line" d="m 973,678 c 3.25,3 7.52476,5.91032 13,12 5.28553,5.87868 5.03547,8.26034 -6,20 -4.53428,4.82362 -5.53335,7.00374 -18.76256,16.06066 -31.32905,21.44834 -35.77355,19.96304 -44.0052,14.41421 -14.3682,-9.68538 -10.29412,-17.14101 -36.83718,2.54603 -12.6941,9.41523 -26.44026,21.93031 -38.39506,27.8547 -20.23301,10.02678 -11.68135,-5.95291 -25.57393,-4.41447"/>
+	<path id="lohasparkspur" class="tko line" d="m 980,710 c 7.68458,-6.64582 14.68266,-13.33563 25.3908,-4.66295 24.7979,20.0842 11.5031,28.06268 -3.5372,51.79065"/>
+	<g class="il line">
+		<path id="westislandspur" d="m 612.09337,790.348 c 12.74563,0.5269 12.76164,0.52442 16.7821,-0.0848 9.61311,-1.45664 7.0926,-9.93389 19.12453,-7.26322 6.52257,1.44778 11.51505,-0.56271 19.10982,-5.89018 3.56761,-2.50256 7.63432,-2.91755 13.90918,-1.3593"/>
+	</g>
+	<use xlink:href="#westislandspur" class="line" style="stroke:#fff;stroke-width:1px"/>
+	<path id="islandline" class="il line" d="m 681.01883,775.75029 c 9.6449,1.76964 10.25987,3.66229 12.31957,9.97501 2.35585,7.22036 6.02774,10.09785 11.12571,12.82974 7.1933,3.85472 10.35855,4.45124 19.26795,4.73205 7.68382,0.24969 14.57298,-2.23326 21.26794,-3.28709 11.11591,-1.74972 14.67411,-3.02379 24,-2 7.86699,0.86363 17.8567,2.4248 21,-4 2.22945,-4.55691 3.89387,-6.86529 4,-13 0.0839,-4.85103 1.9617,-15.48327 21.46411,-17.41149 C 827.77341,762.37148 831.25,766 842,769 c 10.75,3 9.25,4.5 17,9 7.75,4.5 5.75,4.25 14,9 8.25,4.75 6,5.75 19,10 13,4.25 26,-4.5 33,7 7,11.5 -3.91511,29.91043 -5.82554,43.45792"/>
+	<path id="airportexpress_shared_section" class="ae line" style="stroke-linecap:butt;stroke-dasharray:12, 12;stroke-dashoffset:0" d="m 709.73444,735.87689 c -8.16348,11.89113 -19.14283,27.38313 -14.14382,36.68264 M 219.64926,726.35907 c 48.52979,-23.97986 38.60616,-26.64724 56.58951,-40.31655 10.98782,-8.35195 19.88823,-13.56463 33.69941,-20.6124 6.79442,-3.46716 13.73769,-6.80315 20.43666,-10.37187 m 33.68931,-18.75658 c 28.53642,-16.39375 29.50818,-12.20549 40.30964,-13.25744 12.08163,-1.17662 29.55184,-13.11985 42.5995,-20.31711 5.67337,-3.1295 29.57385,-10.06138 56.85018,-18.56519 6.21035,-1.93617 26.08477,-11.96532 40.24905,-13.91838"/>
+	<path id="ngongping360" class="np path" d="M 114.32987,767.17959 95.829715,759.51743 38.564645,801.41161 6,861"/>
+	<line id="tsim_sha_tsui_link" style="stroke:#000;stroke-width:1" x1="750.11005" y1="743.06122" x2="742.45624" y2="737.54584"/>
+	<line id="hk_central_link" y2="797" x2="705" y1="780" x1="703" style="stroke:#000;stroke-width:1;stroke-miterlimit:4"/>
+	<use transform="translate(0.4619549,-3.0796993)" id="ho_tung_lou" x="819" y="443" width="1024" height="1024" xlink:href="#depot"/>
+	<use transform="translate(1.8441856,1.4661052)" id="tai_wai_main" x="754" y="534" width="1024" height="1024" xlink:href="#depot"/>
+	<use transform="matrix(0,-1,1,0,453.20482,371.42513)" id="pat_heung_main" x="0" y="0" width="1024" height="1024" xlink:href="#depot"/>
+	<use transform="matrix(0,-1,1,0,175,497)" id="LRT_depot" x="0" y="0" width="1024" height="1024" xlink:href="#depot"/>
+	<use transform="matrix(0,-1,1,0,591,509)" id="tsuen_wan_depot" x="0" y="0" width="1024" height="1024" xlink:href="#depot"/>
+	<use id="siu_ho_wan_depot" x="236" y="705" width="1024" height="1024" xlink:href="#depot"/>
+	<use transform="matrix(0,-1,1,0,838,657)" id="kowloon_bay_depot" x="0" y="0" width="1024" height="1024" xlink:href="#depot"/>
+	<use transform="matrix(0,-1,1,0,1009.5,748.5)" id="tko_south_depot" x="0" y="0" width="1024" height="1024" xlink:href="#depot"/>
+	<use transform="matrix(0,-1,1,0,912.87427,807.03143)" id="heng_fa_chuen_depot" x="0" y="0" width="1024" height="1024" xlink:href="#depot"/>
+	<path d="m 155.84416,1048.5714 12.72727,7.2728" transform="matrix(0.73142859,0,0,0.73142859,0,-0.42858451)" id="path3662" style="fill:none;stroke:#000000;stroke-width:1.36699998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+	<use transform="translate(1.1398887,3.6096476)" id="tung_chung_360" x="113" y="763" width="1038" height="950" xlink:href="#station"/>
+	<use id="ngong_ping" x="6" y="861" width="1038" height="950" xlink:href="#station"/>
+	<use transform="translate(3.9625928,-1.1557562)" id="lo_wu" x="584" y="73" width="1038" height="950" xlink:href="#station"/>
+	<use id="lok_ma_chau" x="469" y="111" width="1038" height="950" xlink:href="#station"/>
+	<use id="sheung_shui" x="625" y="151" width="1038" height="950" xlink:href="#station"/>
+	<use id="fanling" x="655" y="177" width="1038" height="950" xlink:href="#station"/>
+	<use id="taiwo" x="711" y="295" width="1038" height="950" xlink:href="#station"/>
+	<use id="taipo_market" x="737" y="315" width="1038" height="950" xlink:href="#station"/>
+	<use transform="translate(-1.6510803,0.4953241)" id="university" x="845" y="400" width="1038" height="950" xlink:href="#station"/>
+	<use id="racecourse" x="822.5" y="449" width="1038" height="950" xlink:href="#station"/>
+	<use id="fotan" x="806" y="456" width="1038" height="950" xlink:href="#station"/>
+	<use id="shatin" x="780" y="497" width="1038" height="950" xlink:href="#station"/>
+	<use transform="matrix(-0.6427876,0.7660444,-0.7660444,-0.6427876,755,529)" id="tai_wai" x="0" y="0" width="1038" height="950" xlink:href="#interchange"/>
+	<use transform="matrix(0,1,-1,0,1378,-134)" id="kowloon_tong" x="756" y="622" width="1038" height="950" xlink:href="#interchange"/>
+	<use transform="translate(0.66043214,-0.4953241)" id="mong_kok_east" x="747" y="673" width="1038" height="950" xlink:href="#station"/>
+	<use transform="translate(770,723)" id="hung_hom" x="0" y="0" width="1038" height="950" xlink:href="#interchange"/>
+	<use transform="translate(4.7037207,-1.4111162)" id="east_tsim_sha_tsui" x="746" y="745" width="1038" height="950" xlink:href="#station"/>
+	<use id="wu_kai_sha" x="934" y="360" width="1038" height="950" xlink:href="#station"/>
+	<use id="ma_on_shan" x="900" y="373" width="1038" height="950" xlink:href="#station"/>
+	<use id="heng_on" x="886" y="393" width="1038" height="950" xlink:href="#station"/>
+	<use id="tai_shui_hang" x="880" y="418" width="1038" height="950" xlink:href="#station"/>
+	<use transform="translate(1.4859723,-2.4766205)" id="shek_mun" x="840" y="472" width="1038" height="950" xlink:href="#station"/>
+	<use transform="translate(-1.1557562,-0.82554017)" id="city_one" x="831" y="487" width="1038" height="950" xlink:href="#station"/>
+	<use transform="translate(-7.4298616,6.1089973)" id="shatin_wai" x="817" y="502" width="1038" height="950" xlink:href="#station"/>
+	<use transform="translate(-1.8161884,2.9719446)" id="che_kung_temple" x="782" y="518" width="1038" height="950" xlink:href="#station"/>
+	<use transform="translate(3.4045474,-3.4045474)" id="austin" x="726" y="725" width="1038" height="950" xlink:href="#station"/>
+	<use transform="matrix(-0.2314059,-0.9728573,0.9728573,-0.2314059,651.1013,625.07994)" id="meifoo" x="0" y="0" width="1038" height="950" xlink:href="#interchange"/>
+	<use id="tsuen_wan_west" x="579" y="539" width="1038" height="950" xlink:href="#station"/>
+	<use id="kam_sheung_road" x="451" y="345" width="1038" height="950" xlink:href="#station"/>
+	<use transform="matrix(0.98,0.17,-0.17,0.98,372.43006,313.46976)" id="yuen_long_10" x="0" y="0" width="1038" height="950" xlink:href="#interchange"/>
+	<use transform="translate(-2.4161304,-0.43929644)" id="long_ping" x="351" y="307" width="1038" height="950" xlink:href="#station"/>
+	<use transform="matrix(-0.6923852,-0.7182637,0.7182637,-0.6923852,294.65974,299.39036)" id="tin_shui_wai_133" x="0" y="0" width="1038" height="950" xlink:href="#interchange"/>
+	<use transform="matrix(-0.34,0.94,-0.94,-0.34,221,410)" id="siu_hong_110" x="0" y="0" width="1038" height="950" xlink:href="#interchange"/>
+	<use transform="matrix(-0.94775236,-0.31775063,0.31775063,-0.94775236,205.88124,459.47504)" id="tuen_mun_110" x="0" y="0" width="1038" height="950" xlink:href="#interchange"/>
+	<use transform="translate(0.54912055,-2.7456027)" id="asia_worldexpo" x="119" y="677" width="1038" height="950" xlink:href="#station"/>
+	<use transform="translate(-3.2947233,7.028743)" id="use77" x="103" y="698" width="1038" height="950" xlink:href="#station"/>
+	<use transform="translate(6.269388,5.5094622)" id="tung_chung_mtr" x="117" y="766" width="1038" height="950" xlink:href="#station"/>
+	<use transform="matrix(0.99510188,0.09686783,-0.09686783,0.99510188,563.11765,569.3387)" id="tsing_yi" x="0" y="0" width="1038" height="950" xlink:href="#interchange"/>
+	<use id="olympic" x="710" y="681" width="1038" height="950" xlink:href="#station"/>
+	<use transform="matrix(0.087155,-0.996,0.996,0.087155,713,724)" id="kowloon" x="0" y="0" width="1038" height="950" xlink:href="#interchange"/>
+	<use transform="matrix(0.9396926,0.3420201,-0.3420201,0.9396926,703,780)" id="hong_kong" x="0" y="0" width="1038" height="950" xlink:href="#interchange"/>
+	<use transform="translate(-2.9257144,0)" id="disneyland_resort" x="404" y="692" width="1038" height="950" xlink:href="#station"/>
+	<use id="tsuen_wan" x="593" y="520" width="1038" height="950" xlink:href="#station"/>
+	<use transform="translate(2.7456027,-0.76876877)" id="tai_wo_hau" x="614" y="525" width="1038" height="950" xlink:href="#station"/>
+	<use id="kwai_hing" x="629" y="551" width="1038" height="950" xlink:href="#station"/>
+	<use id="kwai_fong" x="621" y="568" width="1038" height="950" xlink:href="#station"/>
+	<use id="lai_chi_kok" x="688" y="626" width="1038" height="950" xlink:href="#station"/>
+	<use id="cheung_sha_wan" x="709" y="629" width="1038" height="950" xlink:href="#station"/>
+	<use id="sham_shui_po" x="722" y="642" width="1038" height="950" xlink:href="#station"/>
+	<use transform="matrix(0.08715574,0.9961947,-0.9961947,0.08715574,735,661)" id="prince_edward" x="0" y="0" width="1038" height="950" xlink:href="#interchange"/>
+	<use transform="matrix(0.08715574,0.9961947,-0.9961947,0.08715574,736,679)" id="mong_kok" x="0" y="0" width="1038" height="950" xlink:href="#interchange"/>
+	<use transform="matrix(0.08715574,0.9961947,-0.9961947,0.08715574,738.92572,698)" id="yau_ma_tei" x="0" y="0" width="1038" height="950" xlink:href="#interchange"/>
+	<use transform="translate(4.3929644,-0.65894466)" id="jordan" x="736" y="718" width="1038" height="950" xlink:href="#station"/>
+	<use transform="translate(5.0311033,-2.097495)" id="tsim_sha_tsui" x="738" y="740" width="1038" height="950" xlink:href="#station"/>
+	<use transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,724,802)" id="admiralty" x="0" y="0" width="1038" height="950" xlink:href="#interchange"/>
+	<use transform="matrix(0.9396926,0.3420201,-0.3420201,0.9396926,705,797)" id="central" x="0" y="0" width="1038" height="950" xlink:href="#interchange"/>
+	<use id="shek_kip_mei" x="737" y="636" width="1038" height="950" xlink:href="#station"/>
+	<use transform="translate(2.1964822,-0.54912055)" id="lok_fu" x="780" y="620" width="1038" height="950" xlink:href="#station"/>
+	<use transform="translate(8.4668688,-2.2002009)" id="wong_tai_sin" x="793" y="613" width="1038" height="950" xlink:href="#station"/>
+	<use transform="translate(2.3115125,0.16510803)" id="dianmond_hill" x="821" y="610" width="1038" height="950" xlink:href="#station"/>
+	<use transform="translate(2.1464044,2.1464044)" id="choi_hung" x="841" y="622" width="1038" height="950" xlink:href="#station"/>
+	<use id="kowloon_bay" x="853" y="657" width="1038" height="950" xlink:href="#station"/>
+	<use id="ngau_tau_kok" x="864" y="682" width="1038" height="950" xlink:href="#station"/>
+	<use id="kwun_tong" x="887" y="696" width="1038" height="950" xlink:href="#station"/>
+	<use id="lam_tin" x="905" y="716" width="1038" height="950" xlink:href="#station"/>
+	<use transform="matrix(0.82309695,0.56790097,-0.56790097,0.82309695,917.39581,738.64108)" id="yau_tong" x="0" y="0" width="1038" height="950" xlink:href="#interchange"/>
+	<use transform="matrix(0.7660444,-0.6427876,0.6427876,0.7660444,960,725)" id="tiu_king_leng" x="0" y="0" width="1038" height="950" xlink:href="#interchange"/>
+	<use id="po_lam" x="973" y="678" width="1038" height="950" xlink:href="#station"/>
+	<use id="hang_hau" x="986" y="690" width="1038" height="950" xlink:href="#station"/>
+	<use id="tseung_kwan_o" x="980" y="710" width="1038" height="950" xlink:href="#station"/>
+	<use id="lohas_park" x="1004" y="753" width="1038" height="950" xlink:href="#station"/>
+	<use id="kennedy_town" x="629" y="790" width="1038" height="950" xlink:href="#station"/>
+	<use id="hku" x="648" y="783" width="1038" height="950" xlink:href="#station"/>
+	<use id="sai_ying_pun" x="667" y="777" width="1038" height="950" xlink:href="#station"/>
+	<use transform="translate(-2.8465839,1.6442237)" id="sheung_wan" x="684" y="774" width="1038" height="950" xlink:href="#station"/>
+	<use id="wan_chai" x="745" y="800" width="1038" height="950" xlink:href="#station"/>
+	<use id="causeway_bay" x="769" y="798" width="1038" height="950" xlink:href="#station"/>
+	<use id="tin_hau" x="790" y="794" width="1038" height="950" xlink:href="#station"/>
+	<use id="fortress_hill" x="794" y="781" width="1038" height="950" xlink:href="#station"/>
+	<use transform="matrix(0.99893864,-0.04606113,0.04606113,0.99893864,816.82554,765.17446)" id="north_point" x="0" y="0" width="1038" height="950" xlink:href="#interchange"/>
+	<use transform="matrix(0.9763945,0.2159949,-0.2159949,0.9763945,842,769)" id="quarry_bay" x="0" y="0" width="1038" height="950" xlink:href="#interchange"/>
+	<use id="tai_koo" x="859" y="778" width="1038" height="950" xlink:href="#station"/>
+	<use id="sai_wan_ho" x="873" y="787" width="1038" height="950" xlink:href="#station"/>
+	<use id="shau_kei_wan" x="892" y="797" width="1038" height="950" xlink:href="#station"/>
+	<use id="heng_fa_chuen" x="925" y="804" width="1038" height="950" xlink:href="#station"/>
+	<use id="chai_wan" x="920" y="843" width="1038" height="950" xlink:href="#station"/>
+	<use transform="matrix(0.52934694,0.84840546,-0.67696146,0.42237762,639.15944,-301.87148)" id="lai_king" x="756" y="622" width="1024" height="950" xlink:href="#interchange"/>
+	<use transform="matrix(0.82399074,0.56660327,-0.4490205,0.65299434,347.73972,-181.35759)" id="nam_cheong" x="756" y="622" width="1024" height="950" xlink:href="#interchange"/>
+	<use transform="matrix(-0.87701051,0.48047119,-0.38337858,-0.69978607,1252.8333,719.10827)" id="sunny_bay" x="756" y="622" width="1024" height="950" xlink:href="#interchange"/>
+	<g style="font-size:10px;stroke:#fff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round">
+		<g style="font-size:10px;fill:white;stroke:white;stroke-width:1.5px">
+			<g id="stname" transform="translate(7,3)">
+				<text x="589" y="73">gauze lake</text>
+				<text x="474" y="123" text-anchor="end">fall horse continent</text>
+				<text x="626" y="150">above water</text>
+				<text x="655" y="170">flour peak</text>
+				<text x="698" y="296" text-anchor="end">plump harmony</text>
+				<text x="732" y="327" text-anchor="end">large plain ruins</text>
+				<text x="829" y="400" text-anchor="end">large learning</text>
+				<text x="822" y="451">horse location</text>
+				<text x="792" y="456" text-anchor="end">fire charcoal</text>
+				<text x="766" y="497" text-anchor="end">sand rice field</text>
+				<text x="739" y="527" text-anchor="end">large enclose</text>
+				<text x="741" y="614" text-anchor="end">nine dragon dike</text>
+				<text x="745" y="670">flourishing angle east</text>
+				<text x="770" y="723">crimson 磡</text>
+				<text x="934" y="360">crow valley sand</text>
+				<text x="900" y="378">horse saddle mountain</text>
+				<text x="886" y="396">constant relax</text>
+				<text x="880" y="418">large water pit</text>
+				<text x="842" y="472">stone gate</text>
+				<text x="831" y="489">No. one castle</text>
+				<text x="812" y="510">sand rice field enclose</text>
+				<text x="775" y="530">car public mausoleum</text>
+				<text x="742" y="754">be pointed east</text>
+				<text x="720" y="711" text-anchor="end">handle gentleman region around the imperial capital</text>
+				<text x="681" y="664" text-anchor="end">south prosperous</text>
+				<text x="644" y="615">beauty sincere</text>
+				<text x="565" y="539" text-anchor="end">荃gulf west</text>
+				<text x="451" y="345">brocade above path</text>
+				<text x="363" y="300">beginning melodious</text>
+				<text x="331" y="295">melodious wall</text>
+				<text x="277" y="300" text-anchor="end">heavens water enclose</text>
+				<text x="221" y="410">portent ease</text>
+				<text x="205" y="463">barracks gate</text>
+				<text x="583" y="507" text-anchor="end">荃gulf</text>
+				<text x="614" y="525">large cave mouth</text>
+				<text x="629" y="551">hollyhock entertain</text>
+				<text x="621" y="568">hollyhock perfume</text>
+				<text x="583" y="606">荔scenery</text>
+				<text x="670" y="614">荔bough angle</text>
+				<text x="706" y="639" text-anchor="end">long sand gulf</text>
+				<text x="724" y="652" text-anchor="end">deep water 埗</text>
+				<text x="723" y="665" text-anchor="end">plump child</text>
+				<text x="736" y="685">flourishing angle</text>
+				<text x="739" y="698">oil hemp ground</text>
+				<text x="738" y="718">assistant industry</text>
+				<text x="732" y="738" text-anchor="end">be pointed sand bite</text>
+				<text x="707" y="814">gold bell</text>
+				<text x="680" y="811">in ring</text>
+				<text x="736" y="637">stone 硤tail</text>
+				<text x="760" y="609">music wealth</text>
+				<text x="788" y="623">yellow radical (no. 201) variant large hermit</text>
+				<text x="801" y="600">make fire by rubbing sticks stone mountain</text>
+				<text x="842" y="622">coloring rainbow</text>
+				<text x="852" y="657">nine dragon gulf</text>
+				<text x="864" y="680">cow head angle</text>
+				<text x="887" y="694">outlook dike</text>
+				<text x="905" y="716">indigo rice field</text>
+				<text x="913" y="728">oil dike</text>
+				<text x="950" y="737">tune scenery peak</text>
+				<text x="118" y="681">Dr. look at building</text>
+				<text x="86" y="706" text-anchor="end">loom location</text>
+				<text x="96" y="783">east boil</text>
+				<text x="334" y="661">take pleasure in curving shoreline</text>
+				<text x="371" y="704">edify gentleman nun</text>
+				<text x="548" y="583">blue garment</text>
+				<text x="676" y="684">heart carry</text>
+				<text x="697" y="724" text-anchor="end">nine dragon</text>
+				<text x="703" y="780">incense harbor</text>
+				<text x="973" y="675">treasure jewel</text>
+				<text x="986" y="690">pit mouth</text>
+				<text x="967" y="705" text-anchor="end">commander army curving shoreline</text>
+				<text x="991" y="753" text-anchor="end">ease castle</text>
+				<text x="578" y="780">strict nun ground castle</text>
+				<text x="633" y="795">incense harbor large learning</text>
+				<text x="628" y="768">west camp tray</text>
+				<text x="664" y="765">above ring</text>
+				<text x="732" y="810">gulf offspring (animal)</text>
+				<text x="755" y="809">copper gong gulf</text>
+				<text x="790" y="799">heavens empress</text>
+				<text x="794" y="783">burn pedestal mountain</text>
+				<text x="797" y="752">north angle</text>
+				<text x="822" y="755">鰂fish boil</text>
+				<text x="858" y="788" text-anchor="end">plump old</text>
+				<text x="870" y="780">west gulf river</text>
+				<text x="870" y="810">筲winnowing gulf</text>
+				<text x="925" y="804">apricot flower village</text>
+				<text x="920" y="843">brush gulf</text>
+				<text x="6" y="861">rise two-mat area</text>
+			</g>
+		</g>
+	</g>
+	<use id="use370" style="font-size:10px;fill:#000;stroke:none" xlink:href="#stname"/>
+	<rect x="0" y="0" width="1040" height="50" fill="#003366" opacity="0.8" id="rect434"/>
+	<text class="title" style="font-size:30px;fill:white" id="mtr_title" x="15" y="35">harbor iron path line drawing （2014）</text>
+	<g id="legendbox_group" transform="translate(30,80)">
+		<rect ry="15" y="0" x="0" height="330" width="140" id="legendbox" style="fill:#fff;fill-opacity:0.9;stroke:#000;stroke-width:2"/>
+		<text class="title" x="35" y="18" style="text-anchor:middle;font-size:13px">drawing example</text>
+		<text style="font-size:14px">
+			<tspan x="65" y="34">outlook dike thread</tspan>
+			<tspan x="65" dy="20">荃gulf thread</tspan>
+			<tspan x="65" dy="20">harbor island thread</tspan>
+			<tspan x="65" dy="20">east boil thread</tspan>
+			<tspan x="65" dy="20">loom location cheerful thread</tspan>
+			<tspan x="65" dy="20">commander army curving shoreline thread</tspan>
+			<tspan x="65" dy="20">edify gentleman nun thread</tspan>
+			<tspan x="65" dy="20">east iron thread</tspan>
+			<tspan x="65" dy="20">west iron thread</tspan>
+			<tspan x="65" dy="20">horse saddle mountain thread</tspan>
+			<tspan x="65" dy="20">light iron</tspan>
+			<tspan x="65" dy="20">rise two-mat area hawser car</tspan>
+			<tspan x="65" dy="20">car stop</tspan>
+			<tspan x="65" dy="20">shift car stop</tspan>
+			<tspan x="65" dy="20">car workshop</tspan>
+		</text>
+		<g style="fill:none;stroke-linecap:round">
+			<g style="stroke-width:5">
+				<path d="m 15,30 40,0" class="kt"/>
+				<path d="m 15,50 40,0" class="tw"/>
+				<path d="m 15,70 40,0" class="il"/>
+				<path d="m 15,90 40,0" class="tc"/>
+				<path d="m 15,110 40,0" class="ae"/>
+				<path d="m 15,130 40,0" class="tko"/>
+				<path d="m 15,150 40,0" class="dn"/>
+				<path d="m 15,170 40,0" class="er"/>
+				<path d="m 15,190 40,0" class="wr"/>
+				<path d="m 15,210 40,0" class="mos"/>
+			</g>
+			<g style="stroke-width:3">
+				<path d="m 15,230 40,0" class="lr"/>
+				<path d="m 15,250 40,0" class="np"/>
+			</g>
+		</g>
+		<use id="station_legend" height="1024" width="1024" y="270" x="35" xlink:href="#station"/>
+		<path id="interlink" style="fill:none;stroke:#000;stroke-width:1" d="M 35,295 L 25,285"/>
+		<use id="use472" xlink:href="#station" height="1024" width="1024" y="295" x="35"/>
+		<use id="use474" xlink:href="#station" height="1024" width="1024" y="285" x="25"/>
+		<use id="interchange_legend" xlink:href="#interchange" height="1024" width="1024" y="290" x="45"/>
+		<use id="depot_legend" xlink:href="#depot" height="1024" width="1024" y="305" x="35"/>
+	</g>
+</svg>

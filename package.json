@@ -1,0 +1,19 @@
+{
+  "name": "literal-hong-kong",
+  "version": "1.0.0",
+  "description": "Literal Kanji meaning of SVG",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapmeld/literal-hong-kong.git"
+  },
+  "author": "Nick Doiron <ndoiron@mapmeld.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mapmeld/literal-hong-kong/issues"
+  },
+  "homepage": "https://github.com/mapmeld/literal-hong-kong#readme",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "literal-kanji": "^1.0.2"
+  }
+}
