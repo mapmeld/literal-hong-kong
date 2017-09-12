@@ -1,5 +1,7 @@
 # literal-hong-kong
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mapmeld/literal-hong-kong.svg)](https://greenkeeper.io/)
+
 Uses literal-kanji module (with jisho module) to translate individual kanji and make a bizarre map
 
 <img src="http://mapmeld.github.io/literal-hong-kong/translated.png"/>
