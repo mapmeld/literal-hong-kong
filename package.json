@@ -13,7 +13,7 @@
   },
   "homepage": "https://github.com/mapmeld/literal-hong-kong#readme",
   "dependencies": {
-    "cheerio": "^0.19.0",
+    "cheerio": "^0.22.0",
     "literal-kanji": "^1.0.2"
   }
 }
